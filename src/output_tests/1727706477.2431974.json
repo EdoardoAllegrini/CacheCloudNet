@@ -1,0 +1,362 @@
+{
+    "sensors": 1,
+    "balloons": 2,
+    "cache_type": "LRU",
+    "cache_expiration": 10,
+    "cache_size": 10,
+    "queries": [
+        {
+            "timestamp_request_start": 1727706490.3266196,
+            "Balloon_0": "KeyNotFoundError",
+            "Balloon_1": "KeyNotFoundError"
+        },
+        {
+            "timestamp_request_start": 1727706500.440133,
+            "Balloon_0": {
+                "temperature": 38.8,
+                "blood_pressure": {
+                    "systolic": 123,
+                    "diastolic": 70
+                },
+                "heartbeat": 95,
+                "timestamp": 1727706497.986935
+            },
+            "Balloon_1": {
+                "temperature": 38.8,
+                "blood_pressure": {
+                    "systolic": 123,
+                    "diastolic": 70
+                },
+                "heartbeat": 95,
+                "timestamp": 1727706497.986935
+            }
+        },
+        {
+            "timestamp_request_start": 1727706510.519467,
+            "Balloon_0": {
+                "temperature": 38.7,
+                "blood_pressure": {
+                    "systolic": 96,
+                    "diastolic": 69
+                },
+                "heartbeat": 88,
+                "timestamp": 1727706507.9855428
+            },
+            "Balloon_1": {
+                "temperature": 38.7,
+                "blood_pressure": {
+                    "systolic": 96,
+                    "diastolic": 69
+                },
+                "heartbeat": 88,
+                "timestamp": 1727706507.9855428
+            }
+        },
+        {
+            "timestamp_request_start": 1727706520.6222684,
+            "Balloon_1": "CacheExpiredError",
+            "Balloon_0": {
+                "temperature": 35.2,
+                "blood_pressure": {
+                    "systolic": 113,
+                    "diastolic": 75
+                },
+                "heartbeat": 94,
+                "timestamp": 1727706517.9868002
+            }
+        },
+        {
+            "timestamp_request_start": 1727706530.764574,
+            "Balloon_0": {
+                "temperature": 38.2,
+                "blood_pressure": {
+                    "systolic": 91,
+                    "diastolic": 73
+                },
+                "heartbeat": 80,
+                "timestamp": 1727706527.9921203
+            },
+            "Balloon_1": {
+                "temperature": 38.2,
+                "blood_pressure": {
+                    "systolic": 91,
+                    "diastolic": 73
+                },
+                "heartbeat": 80,
+                "timestamp": 1727706527.9921203
+            }
+        },
+        {
+            "timestamp_request_start": 1727706540.9808235,
+            "Balloon_0": {
+                "temperature": 38.0,
+                "blood_pressure": {
+                    "systolic": 130,
+                    "diastolic": 66
+                },
+                "heartbeat": 78,
+                "timestamp": 1727706537.9944332
+            },
+            "Balloon_1": {
+                "temperature": 38.0,
+                "blood_pressure": {
+                    "systolic": 130,
+                    "diastolic": 66
+                },
+                "heartbeat": 78,
+                "timestamp": 1727706537.9944332
+            }
+        },
+        {
+            "timestamp_request_start": 1727706551.1224625,
+            "Balloon_1": {
+                "temperature": 39.5,
+                "blood_pressure": {
+                    "systolic": 139,
+                    "diastolic": 75
+                },
+                "heartbeat": 99,
+                "timestamp": 1727706547.9816518
+            },
+            "Balloon_0": "CacheExpiredError"
+        },
+        {
+            "timestamp_request_start": 1727706561.2108946,
+            "Balloon_0": {
+                "temperature": 37.0,
+                "blood_pressure": {
+                    "systolic": 120,
+                    "diastolic": 89
+                },
+                "heartbeat": 73,
+                "timestamp": 1727706557.9892435
+            },
+            "Balloon_1": {
+                "temperature": 37.0,
+                "blood_pressure": {
+                    "systolic": 120,
+                    "diastolic": 89
+                },
+                "heartbeat": 73,
+                "timestamp": 1727706557.9892435
+            }
+        },
+        {
+            "timestamp_request_start": 1727706571.3070195,
+            "Balloon_1": "CacheExpiredError",
+            "Balloon_0": {
+                "temperature": 39.7,
+                "blood_pressure": {
+                    "systolic": 97,
+                    "diastolic": 73
+                },
+                "heartbeat": 67,
+                "timestamp": 1727706568.0148587
+            }
+        },
+        {
+            "timestamp_request_start": 1727706581.509172,
+            "Balloon_1": {
+                "temperature": 36.6,
+                "blood_pressure": {
+                    "systolic": 135,
+                    "diastolic": 74
+                },
+                "heartbeat": 84,
+                "timestamp": 1727706577.9798555
+            },
+            "Balloon_0": {
+                "temperature": 36.6,
+                "blood_pressure": {
+                    "systolic": 135,
+                    "diastolic": 74
+                },
+                "heartbeat": 84,
+                "timestamp": 1727706577.9798555
+            }
+        },
+        {
+            "timestamp_request_start": 1727706591.6083255,
+            "Balloon_1": {
+                "temperature": 38.6,
+                "blood_pressure": {
+                    "systolic": 96,
+                    "diastolic": 73
+                },
+                "heartbeat": 85,
+                "timestamp": 1727706587.9793642
+            },
+            "Balloon_0": "CacheExpiredError"
+        },
+        {
+            "timestamp_request_start": 1727706601.7020862,
+            "Balloon_0": {
+                "temperature": 35.4,
+                "blood_pressure": {
+                    "systolic": 115,
+                    "diastolic": 79
+                },
+                "heartbeat": 66,
+                "timestamp": 1727706598.0036345
+            },
+            "Balloon_1": "CacheExpiredError"
+        },
+        {
+            "timestamp_request_start": 1727706611.8454323,
+            "Balloon_1": "KeyNotFoundError",
+            "Balloon_0": {
+                "temperature": 36.8,
+                "blood_pressure": {
+                    "systolic": 98,
+                    "diastolic": 65
+                },
+                "heartbeat": 86,
+                "timestamp": 1727706607.9915438
+            }
+        },
+        {
+            "timestamp_request_start": 1727706622.001658,
+            "Balloon_1": {
+                "temperature": 39.6,
+                "blood_pressure": {
+                    "systolic": 130,
+                    "diastolic": 80
+                },
+                "heartbeat": 88,
+                "timestamp": 1727706617.995249
+            },
+            "Balloon_0": {
+                "temperature": 39.6,
+                "blood_pressure": {
+                    "systolic": 130,
+                    "diastolic": 80
+                },
+                "heartbeat": 88,
+                "timestamp": 1727706617.995249
+            }
+        },
+        {
+            "timestamp_request_start": 1727706632.0923014,
+            "Balloon_0": {
+                "temperature": 39.3,
+                "blood_pressure": {
+                    "systolic": 118,
+                    "diastolic": 66
+                },
+                "heartbeat": 84,
+                "timestamp": 1727706627.9911335
+            },
+            "Balloon_1": {
+                "temperature": 39.3,
+                "blood_pressure": {
+                    "systolic": 118,
+                    "diastolic": 66
+                },
+                "heartbeat": 84,
+                "timestamp": 1727706627.9911335
+            }
+        },
+        {
+            "timestamp_request_start": 1727706642.2123191,
+            "Balloon_1": "CacheExpiredError",
+            "Balloon_0": {
+                "temperature": 35.5,
+                "blood_pressure": {
+                    "systolic": 133,
+                    "diastolic": 64
+                },
+                "heartbeat": 74,
+                "timestamp": 1727706637.9846761
+            }
+        },
+        {
+            "timestamp_request_start": 1727706652.3714309,
+            "Balloon_0": {
+                "temperature": 38.8,
+                "blood_pressure": {
+                    "systolic": 137,
+                    "diastolic": 74
+                },
+                "heartbeat": 100,
+                "timestamp": 1727706647.9851878
+            },
+            "Balloon_1": {
+                "temperature": 38.8,
+                "blood_pressure": {
+                    "systolic": 137,
+                    "diastolic": 74
+                },
+                "heartbeat": 100,
+                "timestamp": 1727706647.9851878
+            }
+        },
+        {
+            "timestamp_request_start": 1727706662.5279615,
+            "Balloon_0": "CacheExpiredError",
+            "Balloon_1": {
+                "temperature": 37.5,
+                "blood_pressure": {
+                    "systolic": 108,
+                    "diastolic": 71
+                },
+                "heartbeat": 69,
+                "timestamp": 1727706657.9952888
+            }
+        },
+        {
+            "timestamp_request_start": 1727706672.716013,
+            "Balloon_0": {
+                "temperature": 37.9,
+                "blood_pressure": {
+                    "systolic": 103,
+                    "diastolic": 90
+                },
+                "heartbeat": 99,
+                "timestamp": 1727706668.000319
+            },
+            "Balloon_1": {
+                "temperature": 37.9,
+                "blood_pressure": {
+                    "systolic": 103,
+                    "diastolic": 90
+                },
+                "heartbeat": 99,
+                "timestamp": 1727706668.000319
+            }
+        },
+        {
+            "timestamp_request_start": 1727706682.9525754,
+            "Balloon_0": {
+                "temperature": 39.4,
+                "blood_pressure": {
+                    "systolic": 102,
+                    "diastolic": 65
+                },
+                "heartbeat": 66,
+                "timestamp": 1727706677.9931293
+            },
+            "Balloon_1": {
+                "temperature": 39.4,
+                "blood_pressure": {
+                    "systolic": 102,
+                    "diastolic": 65
+                },
+                "heartbeat": 66,
+                "timestamp": 1727706677.9931293
+            }
+        },
+        {
+            "timestamp_request_start": 1727706693.1008437,
+            "Balloon_1": "CacheExpiredError",
+            "Balloon_0": {
+                "temperature": 38.6,
+                "blood_pressure": {
+                    "systolic": 99,
+                    "diastolic": 64
+                },
+                "heartbeat": 60,
+                "timestamp": 1727706687.9798589
+            }
+        }
+    ]
+}

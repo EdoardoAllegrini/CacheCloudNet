@@ -1,0 +1,11 @@
+# Request part
+int32 id
+int32 sensor_id
+string[] parameters
+
+---
+string sensor_response
+int32 balloon_id
+
+---
+string feedback

@@ -1,0 +1,1 @@
+{"sensors": 3, "balloons": 2, "cache_type": "LRU", "cache_expiration": 10, "cache_size": 2, "queries": [{"timestamp_request_start": 1727709260.8974035, "Balloon_0": "KeyNotFoundError", "Balloon_1": "KeyNotFoundError"}]}
