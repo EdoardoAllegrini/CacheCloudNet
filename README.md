@@ -62,18 +62,17 @@ CacheCloudNet is designed to handle real-world IoT challenges such as intermitte
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<div align="center" style="text-align: center;">
 
-<div style="display: flex; justify-content: space-around;">
-
-  <img src="images/heatmap/6_LFU_5_5.png" alt="Image 1" width="600" />
+  <img src="images/heatmap/6_LFU_5_5.png" alt="Image 1" width="600" style="display: block; margin: auto;" />
 
 </div>
 
 <hr>
 
-<div style="display: flex; justify-content: space-around;">
+<div align="center" style="text-align: center;">
 
-  <img src="images/comparison.png" alt="Image 1" width="600" />
+  <img src="images/comparison.png" alt="Image 2" width="600" style="display: block; margin: auto;" />
 
 </div>
 
