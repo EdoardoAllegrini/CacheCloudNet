@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/EdoardoAllegrini/CacheCloudNet">
-    <img src="teaser.pdf" alt="Logo" width="150" height="150">
+    <img src="images/teaser.png" alt="Logo" width="350" height="350">
   </a>
 
   <h3 align="center">CacheCloudNet</h3>
@@ -63,12 +63,25 @@ CacheCloudNet is designed to handle real-world IoT challenges such as intermitte
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<div style="display: flex; justify-content: space-around;">
+
+  <img src="images/heatmap/6_LFU_5_5.png" alt="Image 1" width="600" />
+
+</div>
+
+<hr>
+
+<div style="display: flex; justify-content: space-around;">
+
+  <img src="images/comparison.png" alt="Image 1" width="600" />
+
+</div>
 
 ### Built With
 
-[![Python][Python.org]][Python-url]
-[![ROS2][ROS2-url]][ROS2-logo]
-[![Gazebo][Gazebo-url]][Gazebo-logo]
+- [![Python][Python.org]][Python-url] 
+- [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)](https://index.ros.org/doc/ros2/)
+- [![gazebo](https://img.shields.io/badge/Gazebo-0C2A29?style=flat&logo=gazebo&logoColor=white)](http://gazebosim.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
